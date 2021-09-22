@@ -1,3 +1,7 @@
+# Ignore cache folder
+_cache
+
+# General Haskell ignores
 dist
 dist-*
 cabal-dev
